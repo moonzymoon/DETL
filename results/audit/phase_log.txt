@@ -1,0 +1,16 @@
+SWaT      phase=always       F1=0.400 AAR=0.042 det=1.00
+SWaT      phase=0.5          F1=1.000 AAR=0.010 det=1.00
+SWaT      phase=0.3 (default) F1=0.333 AAR=0.052 det=1.00
+SWaT      phase=0.15         F1=0.286 AAR=0.062 det=1.00
+SWaT      phase=never        F1=1.000 AAR=0.010 det=1.00
+TE        phase=always       F1=0.500 AAR=0.010 det=0.33
+TE        phase=0.5          F1=0.714 AAR=0.041 det=0.83
+TE        phase=0.3 (default) F1=0.769 AAR=0.036 det=0.83
+TE        phase=0.15         F1=0.769 AAR=0.036 det=0.83
+TE        phase=never        F1=0.286 AAR=0.005 det=1.00
+MetroPT3  phase=always       F1=0.083 AAR=0.020 det=0.33
+MetroPT3  phase=0.5          F1=0.067 AAR=0.026 det=0.33
+MetroPT3  phase=0.3 (default) F1=0.067 AAR=0.026 det=0.33
+MetroPT3  phase=0.15         F1=0.500 AAR=0.001 det=1.00
+MetroPT3  phase=never        F1=0.500 AAR=0.001 det=1.00
+written D:\0科研\工作1\第9篇SCI\results\audit\phase_ablation.csv

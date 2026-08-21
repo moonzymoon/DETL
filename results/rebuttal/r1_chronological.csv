@@ -1,0 +1,7 @@
+﻿AAR_per_hour,flood_time_frac,chatter_rate,mean_alarm_delay_s,event_detection_rate,n_gt_events,n_alarm_events,EventF1,dataset,scorer,n_train_events,params,method
+0.059934238821293305,0.0,0.0,115.0,1.0,1,6,0.2857142857142857,SWaT,cmhmil,0,"{'theta_hi': 0.6734652519226074, 'theta_lo': 0.673123836517334, 'T_on': 20, 'T_off': 3}",diff-tune(chrono)
+0.869046462908753,0.0,0.1744186046511628,10.0,1.0,1,87,0.022727272727272724,SWaT,cmhmil,0,,fixed-win(chrono)
+0.005002084201750729,0.0,0.0,113040.0,0.25,4,1,0.4,TE,iforest,2,"{'theta_hi': 0.06157762557268143, 'theta_lo': -0.007000386714935303, 'T_on': 1, 'T_off': 2}",diff-tune(chrono)
+0.0,0.0,0.0,,0.0,4,0,0.0,TE,iforest,2,,fixed-win(chrono)
+1.2843802037530967,0.0,0.0,34830.0,1.0,1,1353,0.0014771048744460858,MetroPT3,iforest,2,"{'theta_hi': 0.13957622647285461, 'theta_lo': 0.10838976502418518, 'T_on': 7, 'T_off': 1}",diff-tune(chrono)
+1.334692214690949,0.0,0.0,475.0,1.0,1,1406,0.0014214641080312722,MetroPT3,iforest,2,,fixed-win(chrono)

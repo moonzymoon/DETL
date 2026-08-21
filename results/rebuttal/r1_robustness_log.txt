@@ -1,0 +1,34 @@
+[seeds] cmhmil x SWaT seed=7: EventF1=0.333 det=1.00 AAR=0.05
+[seeds] cmhmil x SWaT seed=8: EventF1=0.333 det=1.00 AAR=0.05
+[seeds] cmhmil x SWaT seed=9: EventF1=0.333 det=1.00 AAR=0.05
+[seeds] iforest x TE seed=7: EventF1=0.769 det=0.83 AAR=0.04
+[seeds] iforest x TE seed=8: EventF1=0.769 det=0.83 AAR=0.04
+[seeds] iforest x TE seed=9: EventF1=0.769 det=0.83 AAR=0.04
+[seeds] iforest x MetroPT3 seed=7: EventF1=0.067 det=0.33 AAR=0.03
+[seeds] iforest x MetroPT3 seed=8: EventF1=0.067 det=0.33 AAR=0.03
+[seeds] iforest x MetroPT3 seed=9: EventF1=0.067 det=0.33 AAR=0.03
+
+[seeds] 汇总 (mean±std):
+  MetroPT3  EventF1=0.067±0.000 det=0.33±0.00
+  SWaT      EventF1=0.333±0.000 det=1.00±0.00
+  TE        EventF1=0.769±0.000 det=0.83±0.00
+[rmax] cmhmil x SWaT R_max=0.02: EventF1=0.400 AAR=0.04 det=1.00 MAD=60s
+[rmax] cmhmil x SWaT R_max=0.1: EventF1=0.333 AAR=0.05 det=1.00 MAD=55s
+[rmax] cmhmil x SWaT R_max=1.0: EventF1=0.333 AAR=0.05 det=1.00 MAD=65s
+[rmax] cmhmil x SWaT R_max=5.0: EventF1=0.333 AAR=0.05 det=1.00 MAD=65s
+[rmax] cmhmil x SWaT R_max=10.0: EventF1=0.333 AAR=0.05 det=1.00 MAD=65s
+[rmax] cmhmil x SWaT R_max=20.0: EventF1=0.333 AAR=0.05 det=1.00 MAD=65s
+[rmax] iforest x TE R_max=0.02: EventF1=0.600 AAR=0.02 det=0.67 MAD=6645s
+[rmax] iforest x TE R_max=0.1: EventF1=0.769 AAR=0.04 det=0.83 MAD=8520s
+[rmax] iforest x TE R_max=1.0: EventF1=0.769 AAR=0.04 det=0.83 MAD=8520s
+[rmax] iforest x TE R_max=5.0: EventF1=0.769 AAR=0.04 det=0.83 MAD=8520s
+[rmax] iforest x TE R_max=10.0: EventF1=0.769 AAR=0.04 det=0.83 MAD=8520s
+[rmax] iforest x TE R_max=20.0: EventF1=0.769 AAR=0.04 det=0.83 MAD=8520s
+[rmax] iforest x MetroPT3 R_max=0.02: EventF1=0.500 AAR=0.00 det=1.00 MAD=0s
+[rmax] iforest x MetroPT3 R_max=0.1: EventF1=0.067 AAR=0.03 det=0.33 MAD=58710s
+[rmax] iforest x MetroPT3 R_max=1.0: EventF1=0.067 AAR=0.03 det=0.33 MAD=58695s
+[rmax] iforest x MetroPT3 R_max=5.0: EventF1=0.067 AAR=0.03 det=0.33 MAD=58695s
+[rmax] iforest x MetroPT3 R_max=10.0: EventF1=0.067 AAR=0.03 det=0.33 MAD=58695s
+[rmax] iforest x MetroPT3 R_max=20.0: EventF1=0.067 AAR=0.03 det=0.33 MAD=58695s
+
+写出 D:\0科研\工作1\第9篇SCI\results\robustness/ 下 2 个 csv

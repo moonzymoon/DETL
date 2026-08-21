@@ -1,0 +1,7 @@
+[chrono] cmhmil x SWaT: train_events=0 | ours F1=0.286 det=1.00 AAR=0.06 | fixed F1=0.023
+[chat] cmhmil x SWaT: 无约束 chatter=0.000 F1=0.333 | +chat-c chatter=0.000 F1=0.333 AAR=0.05
+[chrono] iforest x TE: train_events=2 | ours F1=0.400 det=0.25 AAR=0.01 | fixed F1=0.000
+[chat] iforest x TE: 无约束 chatter=0.000 F1=0.769 | +chat-c chatter=0.000 F1=0.769 AAR=0.04
+[chrono] iforest x MetroPT3: train_events=2 | ours F1=0.001 det=1.00 AAR=1.28 | fixed F1=0.001
+[chat] iforest x MetroPT3: 无约束 chatter=0.000 F1=0.067 | +chat-c chatter=0.000 F1=0.067 AAR=0.03
+写出 D:\0科研\工作1\第9篇SCI\results\rebuttal/ 下 2 个 csv

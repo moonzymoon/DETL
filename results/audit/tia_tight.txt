@@ -1,0 +1,3 @@
+SWaT: TIA=0.0792 n_alarm_events=4 AAR=0.04167/h span_h=96
+TE: TIA=0.4009 n_alarm_events=4 AAR=0.02043/h span_h=196
+done
