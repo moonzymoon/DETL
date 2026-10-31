@@ -1,0 +1,381 @@
+{
+ "protocol": "cmhmil TE_seed7 frozen ckpt; params a0_cmhmil_TE_params.csv (legacy-tuned, 3 optuna seeds); comparator=optuna seed-mean; B=10000 seed=0",
+ "n_runs": 34,
+ "n_idv": 17,
+ "run_level": {
+  "d_EF1": {
+   "mean": 0.0511,
+   "ci95": [
+    -0.0175,
+    0.1298
+   ]
+  },
+  "d_det": {
+   "mean": 0.1176,
+   "ci95": [
+    0.0294,
+    0.2353
+   ]
+  },
+  "layer_det": {
+   "mean": 0.3235,
+   "ci95": [
+    0.1765,
+    0.4706
+   ]
+  },
+  "opt_det": {
+   "mean": 0.2059,
+   "ci95": [
+    0.0882,
+    0.3529
+   ]
+  },
+  "layer_AAR": {
+   "mean": 0.0431,
+   "ci95": [
+    0.0154,
+    0.0779
+   ]
+  },
+  "opt_AAR": {
+   "mean": 0.0285,
+   "ci95": [
+    0.0069,
+    0.0557
+   ]
+  }
+ },
+ "idv_clustered": {
+  "d_EF1": {
+   "mean": 0.0511,
+   "ci95": [
+    -0.0068,
+    0.1301
+   ]
+  },
+  "d_det": {
+   "mean": 0.1176,
+   "ci95": [
+    0.0,
+    0.2647
+   ]
+  }
+ },
+ "best_seed": {
+  "layer_EF1": 0.1619,
+  "best_EF1": 0.1216,
+  "layer_det": 0.3235,
+  "best_det": 0.2059
+ },
+ "leave_one_idv_out": [
+  {
+   "drop_idv": 2,
+   "mean_d_EF1": 0.0209,
+   "mean_d_det": 0.0625
+  },
+  {
+   "drop_idv": 3,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 5,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 6,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 7,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 8,
+   "mean_d_EF1": 0.047,
+   "mean_d_det": 0.0938
+  },
+  {
+   "drop_idv": 9,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 10,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 12,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 13,
+   "mean_d_EF1": 0.059,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 14,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 15,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 16,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 17,
+   "mean_d_EF1": 0.0567,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 18,
+   "mean_d_EF1": 0.0334,
+   "mean_d_det": 0.0938
+  },
+  {
+   "drop_idv": 19,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  },
+  {
+   "drop_idv": 20,
+   "mean_d_EF1": 0.0543,
+   "mean_d_det": 0.125
+  }
+ ],
+ "stratified": [
+  {
+   "cohort": 1,
+   "idv": 2,
+   "n": 2,
+   "layer_EF1": 0.5333,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.5333,
+   "layer_det": 1.0,
+   "opt_det": 0.0,
+   "d_det": 1.0,
+   "layer_AAR": 0.0603,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 1,
+   "idv": 5,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 1,
+   "idv": 7,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 1,
+   "idv": 10,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 1,
+   "idv": 13,
+   "n": 2,
+   "layer_EF1": 0.254,
+   "opt_EF1": 0.3306,
+   "d_EF1": -0.0766,
+   "layer_det": 1.0,
+   "opt_det": 1.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.1407,
+   "opt_AAR": 0.1038
+  },
+  {
+   "cohort": 2,
+   "idv": 3,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 6,
+   "n": 2,
+   "layer_EF1": 1.0,
+   "opt_EF1": 1.0,
+   "d_EF1": 0.0,
+   "layer_det": 1.0,
+   "opt_det": 1.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0593,
+   "opt_AAR": 0.0593
+  },
+  {
+   "cohort": 2,
+   "idv": 8,
+   "n": 2,
+   "layer_EF1": 0.5333,
+   "opt_EF1": 0.4167,
+   "d_EF1": 0.1167,
+   "layer_det": 1.0,
+   "opt_det": 0.5,
+   "d_det": 0.5,
+   "layer_AAR": 0.0603,
+   "opt_AAR": 0.0167
+  },
+  {
+   "cohort": 2,
+   "idv": 9,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 12,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 14,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 15,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 16,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 17,
+   "n": 2,
+   "layer_EF1": 0.0976,
+   "opt_EF1": 0.1364,
+   "d_EF1": -0.0387,
+   "layer_det": 1.0,
+   "opt_det": 1.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.3918,
+   "opt_AAR": 0.3048
+  },
+  {
+   "cohort": 2,
+   "idv": 18,
+   "n": 2,
+   "layer_EF1": 0.3333,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.3333,
+   "layer_det": 0.5,
+   "opt_det": 0.0,
+   "d_det": 0.5,
+   "layer_AAR": 0.0201,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 19,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  },
+  {
+   "cohort": 2,
+   "idv": 20,
+   "n": 2,
+   "layer_EF1": 0.0,
+   "opt_EF1": 0.0,
+   "d_EF1": 0.0,
+   "layer_det": 0.0,
+   "opt_det": 0.0,
+   "d_det": 0.0,
+   "layer_AAR": 0.0,
+   "opt_AAR": 0.0
+  }
+ ]
+}

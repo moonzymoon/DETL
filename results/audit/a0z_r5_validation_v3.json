@@ -1,0 +1,106 @@
+{
+ "per_stream": {
+  "SWaT_cmh": {
+   "R0": {
+    "det": 1.0,
+    "ef1": 0.35
+   },
+   "R5a": {
+    "det": 1.0,
+    "ef1": 0.209
+   },
+   "R5b": {
+    "det": 1.0,
+    "ef1": 0.225
+   },
+   "R5c": {
+    "det": 1.0,
+    "ef1": 0.373
+   }
+  },
+  "Metro_if": {
+   "R0": {
+    "det": 0.5,
+    "ef1": 0.057
+   },
+   "R5a": {
+    "det": 0.5,
+    "ef1": 0.015
+   },
+   "R5b": {
+    "det": 0.5,
+    "ef1": 0.024
+   },
+   "R5c": {
+    "det": 0.5,
+    "ef1": 0.057
+   }
+  },
+  "TE_cmh": {
+   "R0": {
+    "det": 0.2,
+    "ef1": 0.286
+   },
+   "R5a": {
+    "det": 0.4,
+    "ef1": 0.391
+   },
+   "R5b": {
+    "det": 0.4,
+    "ef1": 0.439
+   },
+   "R5c": {
+    "det": 0.2,
+    "ef1": 0.286
+   }
+  },
+  "TE_usad": {
+   "R0": {
+    "det": 0.2,
+    "ef1": 0.286
+   },
+   "R5a": {
+    "det": 0.6,
+    "ef1": 0.322
+   },
+   "R5b": {
+    "det": 0.867,
+    "ef1": 0.716
+   },
+   "R5c": {
+    "det": 0.533,
+    "ef1": 0.5
+   }
+  }
+ },
+ "rule_pass": {
+  "R5a": {
+   "n_pass": 2,
+   "per_stream": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": true,
+    "TE_usad": true
+   }
+  },
+  "R5b": {
+   "n_pass": 2,
+   "per_stream": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": true,
+    "TE_usad": true
+   }
+  },
+  "R5c": {
+   "n_pass": 1,
+   "per_stream": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": false,
+    "TE_usad": true
+   }
+  }
+ },
+ "protocol": "segmented bounds for all TE streams (v3); v1/v2 legacy"
+}

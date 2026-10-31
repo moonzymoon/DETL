@@ -1,0 +1,58 @@
+===== BATADAL =====
+stream: n=6454, dt=3600.0s, segments=1
+D:\0科研\工作1\第9篇SCI\src\experiments\a0_lib.py:223: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:823.)
+  viol = [max(0.0, float(aar) - R_MAX) / R_MAX,
+[BATADAL] layer_r0: EF1=0.250 det=0.50 AAR=0.0019
+[BATADAL] layer_r1: EF1=0.250 det=0.50 AAR=0.0019
+[BATADAL] layer_r2: EF1=0.250 det=0.50 AAR=0.0019
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[BATADAL] optuna_s7_B60: EF1=0.400 det=0.50 AAR=0.0009
+[BATADAL] optuna_s7_B120: EF1=0.400 det=0.50 AAR=0.0009
+[BATADAL] optuna_s7_B240: EF1=0.400 det=0.50 AAR=0.0009
+[BATADAL] optuna_s8_B60: EF1=0.250 det=0.50 AAR=0.0019
+[BATADAL] optuna_s8_B120: EF1=0.400 det=0.50 AAR=0.0009
+[BATADAL] optuna_s8_B240: EF1=0.400 det=0.50 AAR=0.0009
+[BATADAL] optuna_s9_B60: EF1=0.000 det=0.00 AAR=0.0022
+[BATADAL] optuna_s9_B120: EF1=0.333 det=0.50 AAR=0.0012
+[BATADAL] optuna_s9_B240: EF1=0.222 det=0.50 AAR=0.0022
+===== NoBOOM_acetone =====
+stream: n=69053, dt=1.0s, segments=16
+[NoBOOM_acetone] layer_r0: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] layer_r1: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] layer_r2: EF1=0.000 det=0.00 AAR=0.0000
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[NoBOOM_acetone] optuna_s7_B60: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s7_B120: EF1=0.143 det=0.08 AAR=0.1043
+[NoBOOM_acetone] optuna_s7_B240: EF1=0.143 det=0.08 AAR=0.1043
+[NoBOOM_acetone] optuna_s8_B60: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s8_B120: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s8_B240: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s9_B60: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s9_B120: EF1=0.000 det=0.00 AAR=0.0000
+[NoBOOM_acetone] optuna_s9_B240: EF1=0.000 det=0.00 AAR=0.0000
+===== NoBOOM_butanol =====
+stream: n=386554, dt=1.0s, segments=63
+[NoBOOM_butanol] layer_r0: EF1=0.028 det=0.02 AAR=0.0931
+[NoBOOM_butanol] layer_r1: EF1=0.028 det=0.02 AAR=0.0931
+[NoBOOM_butanol] layer_r2: EF1=0.028 det=0.02 AAR=0.0931
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[NoBOOM_butanol] optuna_s7_B60: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s7_B120: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s7_B240: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s8_B60: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s8_B120: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s8_B240: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s9_B60: EF1=0.000 det=0.00 AAR=0.0373
+[NoBOOM_butanol] optuna_s9_B120: EF1=0.000 det=0.00 AAR=0.0559
+[NoBOOM_butanol] optuna_s9_B240: EF1=0.000 det=0.00 AAR=0.0559
+DONE 36 rows

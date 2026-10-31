@@ -1,0 +1,11 @@
+[r36] BATADAL: 流长 6454, 整定段事件 5, 测试事件 4, std=0.0224
+[r36] BATADAL  m_max=  none: F1=0.400 det=1.00 AAR=0.0003 n_ev=1 m*=0.1832 occ=0.9985 最长=3221.0h
+[r36] BATADAL  m_max=  0.01: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 m*=0.0002 occ=0.0012 最长=2.0h
+[r36] BATADAL  m_max=  0.02: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 m*=0.0004 occ=0.0012 最长=2.0h
+[r36] BATADAL  m_max=  0.05: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 m*=0.0010 occ=0.0015 最长=3.0h
+[r36] BATADAL  m_max=  0.10: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 m*=0.0021 occ=0.0015 最长=3.0h
+[r36] BATADAL  m_max=  0.20: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 m*=0.0042 occ=0.0015 最长=3.0h
+[r36] TE: 流长 23989, 整定段事件 5, 测试事件 6, std=0.0489
+[r36] TE       m_max=  none: F1=0.769 det=0.83 AAR=0.0357 n_ev=7 m*=0.0774 occ=0.3771 最长=22.5h
+[r36] TE       m_max=  0.05: F1=0.072 det=1.00 AAR=0.8222 n_ev=161 m*=0.0024 occ=0.3151 最长=10.1h
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r36_mcap_sweep.csv

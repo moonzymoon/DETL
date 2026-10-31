@@ -1,0 +1,97 @@
+{
+ "table": [
+  {
+   "config": "layer (deployed)",
+   "det": 0.6,
+   "EF1": 0.231,
+   "AAR": 0.1072,
+   "TIA": 0.204,
+   "MAD_s": 43560.0,
+   "q": NaN,
+   "mf": NaN,
+   "t_on": 4,
+   "t_off": 18,
+   "theta_hi": 0.035
+  },
+  {
+   "config": "search, R0 rule (seed-mean)",
+   "det": 0.2,
+   "EF1": 0.2604,
+   "AAR": 0.014280000000000001,
+   "TIA": 0.08954,
+   "MAD_s": NaN,
+   "q": 0.9416,
+   "mf": 0.6048,
+   "t_on": 15,
+   "t_off": 28,
+   "theta_hi": NaN
+  },
+  {
+   "config": "ORACLE max-det (global)",
+   "det": 1.0,
+   "EF1": 0.625,
+   "AAR": 0.0562,
+   "TIA": 0.3716,
+   "MAD_s": 6300.0,
+   "q": 0.631,
+   "mf": 0.113,
+   "t_on": 8,
+   "t_off": 23,
+   "theta_hi": NaN
+  },
+  {
+   "config": "ORACLE max-EF1 (global)",
+   "det": 0.8,
+   "EF1": 0.667,
+   "AAR": 0.0357,
+   "TIA": 0.3562,
+   "MAD_s": 20445.0,
+   "q": 0.768,
+   "mf": 1.434,
+   "t_on": 21,
+   "t_off": 11,
+   "theta_hi": NaN
+  },
+  {
+   "config": "ORACLE max-EF1 at layer AAR",
+   "det": 0.8,
+   "EF1": 0.667,
+   "AAR": 0.0357,
+   "TIA": 0.3562,
+   "MAD_s": 20445.0,
+   "q": 0.768,
+   "mf": 1.434,
+   "t_on": 21,
+   "t_off": 11,
+   "theta_hi": NaN
+  }
+ ],
+ "decomposition": {
+  "oracle_maxdet_params": {
+   "q": 0.631,
+   "mf": 0.113,
+   "T_on": 8,
+   "T_off": 23
+  },
+  "layer_params": {
+   "theta_hi": 0.035,
+   "theta_lo": -0.0065,
+   "T_on": 4,
+   "T_off": 18
+  },
+  "notes": "oracle 以整定侧分位数 q 表示阈值; layer 为绝对 theta。deadband: oracle mf*sd vs layer (hi-lo)。延迟差: T_on/T_off。"
+ },
+ "oracle_det_row": {
+  "seed": "4",
+  "trial": "69",
+  "q": 0.6314,
+  "mf": 0.1132,
+  "T_on": "8",
+  "T_off": "23",
+  "AAR": 0.0562,
+  "EF1_ov": 0.625,
+  "det_ov": 1.0,
+  "MAD_s": 6300.0,
+  "TIA_side": 0.3716
+ }
+}

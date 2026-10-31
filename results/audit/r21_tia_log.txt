@@ -1,0 +1,7 @@
+[r21] SWaT      R_max=10.0  tia_max=none: F1=0.333 det=1.00 AAR=0.0521 n_ev=5 TIA_hard=0.046 T_on=7 T_off=1 theta=0.6900
+[r21] MetroPT3  R_max=0.02  tia_max= 0.2: F1=0.500 det=1.00 AAR=0.0010 n_ev=1 TIA_hard=1.000 T_on=3 T_off=3 theta=-0.0007
+[r21] MetroPT3  R_max=0.02  tia_max= 0.3: F1=0.500 det=1.00 AAR=0.0010 n_ev=1 TIA_hard=1.000 T_on=3 T_off=3 theta=-0.0021
+[r21] MetroPT3  R_max=0.02  tia_max= 0.5: F1=0.500 det=1.00 AAR=0.0010 n_ev=1 TIA_hard=1.000 T_on=3 T_off=3 theta=-0.0040
+[r21] SWaT      R_max=0.02  tia_max= 0.3: F1=0.400 det=1.00 AAR=0.0417 n_ev=4 TIA_hard=0.325 T_on=5 T_off=34 theta=0.6960
+[r21] TE        R_max=0.02  tia_max= 0.3: F1=0.667 det=0.50 AAR=0.0153 n_ev=3 TIA_hard=0.249 T_on=1 T_off=2 theta=0.0519
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r21_tia.csv

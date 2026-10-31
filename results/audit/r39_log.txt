@@ -1,0 +1,31 @@
+[r39] SWaT     ours       seed=7: F1=0.333 det=1.00 AAR=0.0521 n_ev=5
+[r39] SWaT     ours       seed=1: F1=0.333 det=1.00 AAR=0.0521 n_ev=5
+[r39] SWaT     ours       seed=2: F1=0.333 det=1.00 AAR=0.0521 n_ev=5
+[r39] SWaT     ours       seed=3: F1=0.333 det=1.00 AAR=0.0521 n_ev=5
+[r39] SWaT     ours       seed=4: F1=0.333 det=1.00 AAR=0.0521 n_ev=5
+[r39] SWaT     ours       跨度 [0.333, 0.333]
+[r39] TE       ours       seed=7: F1=0.769 det=0.83 AAR=0.0357 n_ev=7
+[r39] TE       ours       seed=1: F1=0.769 det=0.83 AAR=0.0357 n_ev=7
+[r39] TE       ours       seed=2: F1=0.769 det=0.83 AAR=0.0357 n_ev=7
+[r39] TE       ours       seed=3: F1=0.769 det=0.83 AAR=0.0357 n_ev=7
+[r39] TE       ours       seed=4: F1=0.769 det=0.83 AAR=0.0357 n_ev=7
+[r39] TE       ours       跨度 [0.769, 0.769]
+[r39] MetroPT3 ours       seed=7: F1=0.067 det=0.33 AAR=0.0257 n_ev=27
+[r39] MetroPT3 ours       seed=1: F1=0.067 det=0.33 AAR=0.0257 n_ev=27
+[r39] MetroPT3 ours       seed=2: F1=0.067 det=0.33 AAR=0.0257 n_ev=27
+[r39] MetroPT3 ours       seed=3: F1=0.067 det=0.33 AAR=0.0257 n_ev=27
+[r39] MetroPT3 ours       seed=4: F1=0.067 det=0.33 AAR=0.0257 n_ev=27
+[r39] MetroPT3 ours       跨度 [0.067, 0.067]
+[r39] BATADAL  ours       seed=7: F1=0.400 det=1.00 AAR=0.0003 n_ev=1
+[r39] BATADAL  ours       seed=1: F1=0.400 det=1.00 AAR=0.0003 n_ev=1
+[r39] BATADAL  ours       seed=2: F1=0.400 det=1.00 AAR=0.0003 n_ev=1
+[r39] BATADAL  ours       seed=3: F1=0.400 det=1.00 AAR=0.0003 n_ev=1
+[r39] BATADAL  ours       seed=4: F1=0.400 det=1.00 AAR=0.0003 n_ev=1
+[r39] BATADAL  ours       跨度 [0.400, 0.400]
+[r39] BATADAL  ours-mcap  seed=7: F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r39] BATADAL  ours-mcap  seed=1: F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r39] BATADAL  ours-mcap  seed=2: F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r39] BATADAL  ours-mcap  seed=3: F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r39] BATADAL  ours-mcap  seed=4: F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r39] BATADAL  ours-mcap  跨度 [0.333, 0.333]
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r39_our_seeds.csv

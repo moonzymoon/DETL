@@ -1,0 +1,9 @@
+# 第9篇 E1/E2 依赖 (Python 3.11.9, Windows)
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+openpyxl          # TE xlsx + WADI attack_description.xlsx
+torch             # cadms cmhmil 打分器前向 (CPU)
+optuna            # E3 黑盒基线 (TPE 贝叶斯优化)

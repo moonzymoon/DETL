@@ -1,0 +1,16 @@
+﻿event,idv,detected,delay_h,score,theta_hi,rank,var,var_name,mean_abs_z
+1,1,True,2.4,0.0549,0.035,1,20,Compressor work,9.2
+1,1,True,2.4,0.0549,0.035,2,16,Stripper press,4.5
+1,1,True,2.4,0.0549,0.035,3,13,Sep press,4.1
+2,4,False,,-0.0044,0.035,1,18,Stripper temp,1.9
+2,4,False,,-0.0044,0.035,2,36,Comp 36,1.8
+2,4,False,,-0.0044,0.035,3,20,Compressor work,1.6
+3,4,False,,0.0104,0.035,1,9,Reactor temp,8.6
+3,4,False,,0.0104,0.035,2,21,Reactor CW temp,5.3
+3,4,False,,0.0104,0.035,3,16,Stripper press,2.6
+4,11,True,16.2,-0.0153,0.035,1,9,Reactor temp,21.8
+4,11,True,16.2,-0.0153,0.035,2,21,Reactor CW temp,10.6
+4,11,True,16.2,-0.0153,0.035,3,10,Purge rate,4.2
+5,11,True,17.7,0.0255,0.035,1,9,Reactor temp,12.8
+5,11,True,17.7,0.0255,0.035,2,21,Reactor CW temp,7.8
+5,11,True,17.7,0.0255,0.035,3,13,Sep press,3.5

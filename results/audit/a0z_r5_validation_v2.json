@@ -1,0 +1,107 @@
+{
+ "protocol": "per-rule accounting; v1 tie-break defect fixed (max-det tie chose R5a); v1 JSON kept as legacy",
+ "per_stream": {
+  "SWaT_cmh": {
+   "R0": {
+    "det": 1.0,
+    "ef1": 0.35
+   },
+   "R5a": {
+    "det": 1.0,
+    "ef1": 0.209
+   },
+   "R5b": {
+    "det": 1.0,
+    "ef1": 0.225
+   },
+   "R5c": {
+    "det": 1.0,
+    "ef1": 0.373
+   }
+  },
+  "Metro_if": {
+   "R0": {
+    "det": 0.5,
+    "ef1": 0.057
+   },
+   "R5a": {
+    "det": 0.5,
+    "ef1": 0.015
+   },
+   "R5b": {
+    "det": 0.5,
+    "ef1": 0.024
+   },
+   "R5c": {
+    "det": 0.5,
+    "ef1": 0.057
+   }
+  },
+  "TE_cmh": {
+   "R0": {
+    "det": 0.2,
+    "ef1": 0.286
+   },
+   "R5a": {
+    "det": 0.333,
+    "ef1": 0.179
+   },
+   "R5b": {
+    "det": 0.333,
+    "ef1": 0.286
+   },
+   "R5c": {
+    "det": 0.2,
+    "ef1": 0.286
+   }
+  },
+  "TE_usad": {
+   "R0": {
+    "det": 0.2,
+    "ef1": 0.286
+   },
+   "R5a": {
+    "det": 0.733,
+    "ef1": 0.258
+   },
+   "R5b": {
+    "det": 0.733,
+    "ef1": 0.415
+   },
+   "R5c": {
+    "det": 0.6,
+    "ef1": 0.459
+   }
+  }
+ },
+ "rule_pass": {
+  "R5a": {
+   "per_stream_pass": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": false,
+    "TE_usad": true
+   },
+   "n_pass": 1
+  },
+  "R5b": {
+   "per_stream_pass": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": true,
+    "TE_usad": true
+   },
+   "n_pass": 2
+  },
+  "R5c": {
+   "per_stream_pass": {
+    "SWaT_cmh": false,
+    "Metro_if": false,
+    "TE_cmh": false,
+    "TE_usad": true
+   },
+   "n_pass": 1
+  }
+ },
+ "transfer_success(any rule >=3/4)": false
+}

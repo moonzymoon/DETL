@@ -1,0 +1,6 @@
+﻿dataset,scorer,AUROC,above_q99,above_q90
+MetroPT3,iforest(ref),0.6837905307888965,,
+MetroPT3,pca95,0.5252150355782315,,
+MetroPT3,maxz,0.584669540450583,,
+TE-ext,pca95,0.7985439787843434,2.0,10.0
+TE-ext,maxz,0.8034112913367246,2.0,4.0

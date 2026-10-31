@@ -1,0 +1,7 @@
+﻿AAR_per_hour,flood_time_frac,chatter_rate,mean_alarm_delay_s,event_detection_rate,n_gt_events,n_alarm_events,EventF1,dataset,scorer,n_train_events,params,method
+0.052083333333333336,0.0,0.0,65.0,1.0,1,5,0.33333333333333337,SWaT,cmhmil,1,"{'theta_hi': 0.6899768710136414, 'theta_lo': 0.6820564270019531, 'T_on': 7, 'T_off': 1}",diff-tune
+0.0625,0.0,0.0,30.0,1.0,1,6,0.2857142857142857,SWaT,cmhmil,1,"{'theta_hi': 0.6709827184677124, 'theta_lo': 0.6629119515419006, 'T_on': 3, 'T_off': 1}",diff-tune+chat-c(OR)
+0.035747723210486,0.0,0.0,8520.0,0.8333333333333334,6,7,0.7692307692307692,TE,iforest,5,"{'theta_hi': 0.0030330829322338104, 'theta_lo': -0.07433068752288818, 'T_on': 1, 'T_off': 1}",diff-tune
+0.035747723210486,0.0,0.0,8520.0,0.8333333333333334,6,7,0.7692307692307692,TE,iforest,5,"{'theta_hi': 0.0030330829322338104, 'theta_lo': -0.07433068752288818, 'T_on': 1, 'T_off': 1}",diff-tune+chat-c(OR)
+0.025693452266878844,0.0,0.0,58695.0,0.3333333333333333,3,27,0.06666666666666667,MetroPT3,iforest,3,"{'theta_hi': 0.18404000997543335, 'theta_lo': 0.1602478176355362, 'T_on': 13, 'T_off': 1}",diff-tune
+0.023790233580443375,0.0,0.0,58640.0,0.3333333333333333,3,25,0.07142857142857142,MetroPT3,iforest,3,"{'theta_hi': 0.19377705454826355, 'theta_lo': 0.17897363007068634, 'T_on': 1, 'T_off': 9}",diff-tune+chat-c(OR)

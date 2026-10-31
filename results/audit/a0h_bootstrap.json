@@ -1,0 +1,61 @@
+{
+ "protocol": "run-level bootstrap, B=10000, seed=0, per-run table a0_perrun_table.csv",
+ "layer_eventF1": {
+  "mean": 0.567,
+  "ci95": [
+   0.267,
+   0.867
+  ]
+ },
+ "layer_detection": {
+  "mean": 0.6,
+  "ci95": [
+   0.3,
+   0.9
+  ]
+ },
+ "best_search_eventF1": {
+  "mean": 0.473,
+  "ci95": [
+   0.2,
+   0.74
+  ]
+ },
+ "paired_layer_minus_best_search_EF1": {
+  "mean_diff": 0.093,
+  "ci95": [
+   0.0,
+   0.22
+  ]
+ },
+ "paired_layer_det_minus_040": {
+  "mean_diff": 0.2,
+  "ci95": [
+   -0.1,
+   0.5
+  ]
+ },
+ "wide_label_detection": {
+  "mean": 0.9,
+  "ci95": [
+   0.7,
+   1.0
+  ]
+ },
+ "paired_wide_label_minus_best_search_EF1": {
+  "mean_diff": 0.243,
+  "ci95": [
+   0.027,
+   0.483
+  ]
+ },
+ "sign_test_det_gt_040": {
+  "wins": 6,
+  "n": 10,
+  "p": 0.7539
+ },
+ "fisher_te_iforest_det_3of5_vs_1of5": {
+  "note": "n=5 events, directional only",
+  "p": 0.524
+ }
+}

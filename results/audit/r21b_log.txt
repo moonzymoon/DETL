@@ -1,0 +1,15 @@
+[r21b-A penalty] F1=0.500 det=1.00 n_ev=1 TIA_tune=1.000 TIA_test=1.000 theta=-0.0007
+  ep  0 theta=0.0940 tia_soft=0.212 miss=-0.353 mu_tia=1.0
+  ep 30 theta=0.0190 tia_soft=0.331 miss=-0.664 mu_tia=1.0
+  ep 60 theta=-0.0121 tia_soft=0.412 miss=-0.819 mu_tia=1.0
+  ep 90 theta=0.0035 tia_soft=0.763 miss=-0.904 mu_tia=7.9
+  ep120 theta=-0.0086 tia_soft=0.995 miss=-0.959 mu_tia=100.0
+  ep150 theta=-0.0047 tia_soft=0.998 miss=-0.961 mu_tia=100.0
+  ep180 theta=-0.0007 tia_soft=0.998 miss=-0.961 mu_tia=100.0
+  ep210 theta=0.0008 tia_soft=0.997 miss=-0.961 mu_tia=100.0
+  ep240 theta=0.0002 tia_soft=0.997 miss=-0.961 mu_tia=100.0
+  ep270 theta=-0.0003 tia_soft=0.997 miss=-0.961 mu_tia=100.0
+[r21b-B box=0.2] F1=0.080 det=0.33 n_ev=22 TIA_tune=0.010 TIA_test=0.013 theta=0.1959 T_on=2 T_off=41
+[r21b-B box=0.3] F1=0.080 det=0.33 n_ev=22 TIA_tune=0.010 TIA_test=0.014 theta=0.1956 T_on=2 T_off=43
+[r21b-C SWaT box=0.3] F1=0.400 n_ev=4 TIA_test=0.326 theta=0.6969 (无箱参照 F1=0.400, n=4, TIA=0.079)
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r21b_tia_diag.csv

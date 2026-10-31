@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 本地实验输出 (重跑脚本会再生成; 归档结果已在 results/ 内)
+_score_cache/
+*.tmp
+
+# 数据集不入库 (公开数据按 README 链接自行下载; SWaT/WADI 有保密协议)
+data/
+*.xlsx
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db

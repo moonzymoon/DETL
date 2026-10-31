@@ -1,0 +1,8 @@
+﻿method,EventF1,event_detection_rate,AAR_per_hour,n_alarm_events,TIA_hard_test,note
+ours-default,0.4,1.0,0.0003,1.0,0.998,"deadband latch, 3221h single alarm, degenerate"
+ours-floor0.2,0.4,1.0,0.0003,1.0,0.998,threshold floor blind to latch
+ours-floor0.3,0.4,1.0,0.0003,1.0,0.998,threshold floor blind to latch
+ours-mcap0.05std,0.333,0.25,0.0006,2.0,0.002,deadband ceiling removes latch
+ours-mcap0.1std,0.333,0.25,0.0006,2.0,0.002,deadband ceiling removes latch
+selector-event-in-sample,0.333,,,,,in-sample pick 0.333 vs pw 0.308 -> lands on latch; test 0.400 degenerate
+selector-pw,0.444,,,,,pw+constr test 0.444 det 0.50 n=5 AAR 0.002

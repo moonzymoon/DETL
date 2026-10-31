@@ -1,0 +1,74 @@
+{
+ "n_gt_events_total": 5,
+ "n_test_side": 2,
+ "n_test_direct_or_cascade": 1,
+ "frac": 0.5,
+ "per_event": [
+  {
+   "attack": "A1",
+   "gt_len_h": 42.0,
+   "test_side": false,
+   "detected": true,
+   "mode": "annunciation",
+   "top1": "F_PU11",
+   "top2": "S_PU11",
+   "top3": "P_J307",
+   "top1_z": 36.4,
+   "verdict": "cascade",
+   "onset_score_idx": 4037
+  },
+  {
+   "attack": "A3",
+   "gt_len_h": 60.0,
+   "test_side": false,
+   "detected": true,
+   "mode": "annunciation",
+   "top1": "L_T4",
+   "top2": "F_V2",
+   "top3": "L_T3",
+   "top1_z": 1.5,
+   "verdict": "none",
+   "onset_score_idx": 4670
+  },
+  {
+   "attack": "A4",
+   "gt_len_h": 37.0,
+   "test_side": true,
+   "detected": false,
+   "mode": "score-peak",
+   "top1": "L_T1",
+   "top2": "P_J256",
+   "top3": "F_V2",
+   "top1_z": 1.44,
+   "verdict": "direct",
+   "onset_score_idx": 5129
+  },
+  {
+   "attack": "A5",
+   "gt_len_h": 7.0,
+   "test_side": false,
+   "detected": false,
+   "mode": "score-peak",
+   "top1": "L_T4",
+   "top2": "L_T1",
+   "top3": "S_PU2",
+   "top1_z": 1.83,
+   "verdict": "cascade",
+   "onset_score_idx": 5791
+  },
+  {
+   "attack": "A6",
+   "gt_len_h": 73.0,
+   "test_side": true,
+   "detected": true,
+   "mode": "annunciation",
+   "top1": "F_PU6",
+   "top2": "S_PU6",
+   "top3": "S_PU7",
+   "top1_z": 24.37,
+   "verdict": "partial",
+   "onset_score_idx": 6029
+  }
+ ],
+ "protocol": "frozen map 00返修/冻结_C_BATADAL映射_20261025.md"
+}

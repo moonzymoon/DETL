@@ -1,0 +1,605 @@
+D:\0科研\工作1\第9篇SCI\src\experiments\a0_lib.py:223: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:823.)
+  viol = [max(0.0, float(aar) - R_MAX) / R_MAX,
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[3/200] 003_MSL_id_2_Sensor_tr_883_1st_1238.: layer=1.000 opt=0.000 (19s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[6/200] 006_MSL_id_5_Sensor_tr_1150_1st_1250: layer=0.000 opt=1.000 (37s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[8/200] 008_MSL_id_7_Sensor_tr_656_1st_1630.: layer=0.000 opt=0.000 (50s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[18/200] 018_Daphnet_id_1_HumanActivity_tr_96: layer=0.000 opt=0.000 (99s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[21/200] 021_MITDB_id_3_Medical_tr_50000_1st_: layer=0.028 opt=0.182 (620s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[22/200] 022_MITDB_id_4_Medical_tr_50000_1st_: layer=0.182 opt=0.400 (863s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[25/200] 025_MITDB_id_7_Medical_tr_37500_1st_: layer=0.294 opt=0.769 (959s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[26/200] 026_MITDB_id_8_Medical_tr_30495_1st_: layer=0.181 opt=0.720 (1220s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[29/200] 029_MITDB_id_11_Medical_tr_50000_1st: layer=0.034 opt=0.000 (1633s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[30/200] 030_MITDB_id_12_Medical_tr_50000_1st: layer=0.075 opt=0.000 (2093s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[31/200] 031_MITDB_id_13_Medical_tr_50000_1st: layer=0.050 opt=0.050 (2413s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[35/200] 035_GHL_id_4_Sensor_tr_50000_1st_900: layer=0.000 opt=0.000 (2560s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[38/200] 038_GHL_id_7_Sensor_tr_50000_1st_100: layer=0.000 opt=0.000 (2716s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[45/200] 045_GHL_id_14_Sensor_tr_50000_1st_85: layer=0.000 opt=0.000 (2888s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[48/200] 048_GHL_id_17_Sensor_tr_50000_1st_15: layer=0.000 opt=0.000 (3056s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[49/200] 049_GHL_id_18_Sensor_tr_50000_1st_10: layer=0.000 opt=0.000 (3211s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[53/200] 053_GHL_id_22_Sensor_tr_50000_1st_12: layer=0.167 opt=0.000 (3335s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[56/200] 056_GHL_id_25_Sensor_tr_50000_1st_10: layer=0.000 opt=0.000 (3458s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[57/200] 057_SMD_id_1_Facility_tr_4529_1st_46: layer=0.500 opt=0.333 (3476s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[58/200] 058_SMD_id_2_Facility_tr_1087_1st_11: layer=0.182 opt=0.250 (3497s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[59/200] 059_SMD_id_3_Facility_tr_757_1st_857: layer=0.111 opt=0.667 (3515s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[61/200] 061_SMD_id_5_Facility_tr_7176_1st_15: layer=0.316 opt=0.571 (3535s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[62/200] 062_SMD_id_6_Facility_tr_7180_1st_15: layer=0.235 opt=0.400 (3557s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[63/200] 063_SMD_id_7_Facility_tr_5923_1st_65: layer=0.000 opt=0.000 (3576s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[64/200] 064_SMD_id_8_Facility_tr_2272_1st_23: layer=0.114 opt=0.000 (3594s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[65/200] 065_SMD_id_9_Facility_tr_737_1st_837: layer=0.174 opt=0.444 (3613s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[67/200] 067_SMD_id_11_Facility_tr_1980_1st_2: layer=0.077 opt=0.000 (3631s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[69/200] 069_SMD_id_13_Facility_tr_5925_1st_1: layer=0.161 opt=0.308 (3651s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[70/200] 070_SMD_id_14_Facility_tr_1070_1st_1: layer=0.000 opt=0.000 (3673s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[72/200] 072_SMD_id_16_Facility_tr_7119_1st_1: layer=0.154 opt=0.286 (3708s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[73/200] 073_SMD_id_17_Facility_tr_5926_1st_1: layer=0.200 opt=0.250 (3747s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[74/200] 074_SMD_id_18_Facility_tr_7174_1st_2: layer=0.000 opt=0.000 (3825s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[75/200] 075_SMD_id_19_Facility_tr_564_1st_66: layer=0.000 opt=0.000 (3861s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[77/200] 077_SMD_id_21_Facility_tr_3026_1st_3: layer=0.300 opt=0.286 (3895s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[78/200] 078_SMD_id_22_Facility_tr_500_1st_32: layer=0.091 opt=0.444 (3927s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[79/200] 079_LTDB_id_1_Medical_tr_3618_1st_37: layer=0.000 opt=0.964 (4085s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[80/200] 080_LTDB_id_2_Medical_tr_500_1st_266: layer=0.071 opt=0.090 (4221s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[81/200] 081_LTDB_id_3_Medical_tr_500_1st_26.: layer=0.482 opt=0.852 (4362s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[82/200] 082_LTDB_id_4_Medical_tr_4456_1st_45: layer=0.667 opt=0.845 (4447s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[83/200] 083_LTDB_id_5_Medical_tr_15502_1st_1: layer=0.000 opt=0.400 (4517s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[84/200] 084_SVDB_id_1_Medical_tr_12973_1st_1: layer=0.471 opt=0.167 (4679s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[85/200] 085_SVDB_id_2_Medical_tr_50000_1st_5: layer=0.137 opt=0.583 (4844s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[86/200] 086_SVDB_id_3_Medical_tr_533_1st_633: layer=0.326 opt=0.708 (5037s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[87/200] 087_SVDB_id_4_Medical_tr_5421_1st_55: layer=0.722 opt=0.964 (5191s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[88/200] 088_SVDB_id_5_Medical_tr_500_1st_168: layer=0.153 opt=0.313 (5364s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[89/200] 089_SVDB_id_6_Medical_tr_50000_1st_8: layer=0.400 opt=0.400 (5506s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[90/200] 090_SVDB_id_7_Medical_tr_12157_1st_1: layer=0.000 opt=0.727 (5536s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[91/200] 091_SVDB_id_8_Medical_tr_500_1st_126: layer=0.483 opt=0.839 (5683s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[92/200] 092_SVDB_id_9_Medical_tr_2674_1st_27: layer=0.040 opt=0.118 (5827s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[93/200] 093_SVDB_id_10_Medical_tr_500_1st_37: layer=0.211 opt=0.713 (5988s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[95/200] 095_SVDB_id_12_Medical_tr_6264_1st_6: layer=0.111 opt=0.100 (6134s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[96/200] 096_SVDB_id_13_Medical_tr_500_1st_44: layer=0.051 opt=0.062 (6278s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[97/200] 097_SVDB_id_14_Medical_tr_1031_1st_1: layer=0.621 opt=0.968 (6470s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[98/200] 098_SVDB_id_15_Medical_tr_500_1st_30: layer=0.222 opt=0.478 (6652s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[99/200] 099_SVDB_id_16_Medical_tr_1115_1st_1: layer=0.093 opt=0.883 (6898s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[100/200] 100_SVDB_id_17_Medical_tr_17803_1st_: layer=0.500 opt=0.667 (7007s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[101/200] 101_SVDB_id_18_Medical_tr_1851_1st_1: layer=0.150 opt=0.808 (7202s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[102/200] 102_SVDB_id_19_Medical_tr_50000_1st_: layer=0.000 opt=0.000 (7406s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[103/200] 103_SVDB_id_20_Medical_tr_12167_1st_: layer=0.000 opt=0.400 (7599s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[104/200] 104_SVDB_id_21_Medical_tr_50000_1st_: layer=0.571 opt=0.400 (7783s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[105/200] 105_SVDB_id_22_Medical_tr_500_1st_41: layer=0.427 opt=0.456 (7894s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[107/200] 107_SVDB_id_24_Medical_tr_32805_1st_: layer=0.074 opt=0.069 (8056s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[108/200] 108_SVDB_id_25_Medical_tr_1238_1st_1: layer=0.727 opt=0.875 (8203s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[109/200] 109_SVDB_id_26_Medical_tr_1038_1st_1: layer=0.333 opt=0.390 (8375s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[110/200] 110_SVDB_id_27_Medical_tr_30824_1st_: layer=0.059 opt=0.211 (8521s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[111/200] 111_SVDB_id_28_Medical_tr_1791_1st_1: layer=0.651 opt=0.952 (8687s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[112/200] 112_SVDB_id_29_Medical_tr_8226_1st_8: layer=0.013 opt=0.000 (8831s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[113/200] 113_SVDB_id_30_Medical_tr_4552_1st_4: layer=0.900 opt=0.857 (8980s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[115/200] 115_PSM_id_1_Facility_tr_50000_1st_1: layer=0.000 opt=0.000 (9125s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[116/200] 116_TAO_id_1_Environment_tr_500_1st_: layer=0.996 opt=0.000 (9173s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[117/200] 117_TAO_id_2_Environment_tr_500_1st_: layer=0.000 opt=0.000 (9291s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[118/200] 118_TAO_id_3_Environment_tr_500_1st_: layer=0.997 opt=0.013 (9341s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[119/200] 119_TAO_id_4_Environment_tr_500_1st_: layer=0.038 opt=0.023 (9427s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[120/200] 120_TAO_id_5_Environment_tr_500_1st_: layer=0.000 opt=0.000 (9515s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[121/200] 121_TAO_id_6_Environment_tr_500_1st_: layer=0.000 opt=0.010 (9629s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[122/200] 122_TAO_id_7_Environment_tr_500_1st_: layer=0.000 opt=0.015 (9711s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[123/200] 123_TAO_id_8_Environment_tr_500_1st_: layer=0.997 opt=0.013 (9762s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[124/200] 124_TAO_id_9_Environment_tr_500_1st_: layer=0.992 opt=0.000 (9817s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[125/200] 125_TAO_id_10_Environment_tr_500_1st: layer=0.036 opt=0.007 (9902s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[126/200] 126_TAO_id_11_Environment_tr_500_1st: layer=0.000 opt=0.021 (9986s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[127/200] 127_TAO_id_12_Environment_tr_500_1st: layer=0.993 opt=0.014 (10036s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[128/200] 128_TAO_id_13_Environment_tr_500_1st: layer=0.000 opt=0.010 (10149s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[137/200] 137_CreditCard_id_1_Finance_tr_500_1: layer=0.030 opt=0.027 (10395s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[138/200] 138_CATSv2_id_1_Sensor_tr_16568_1st_: layer=0.000 opt=0.000 (10451s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[139/200] 139_CATSv2_id_2_Sensor_tr_5592_1st_5: layer=0.000 opt=0.000 (10571s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[140/200] 140_CATSv2_id_3_Sensor_tr_28307_1st_: layer=0.034 opt=0.000 (10820s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[141/200] 141_CATSv2_id_4_Sensor_tr_41727_1st_: layer=0.200 opt=0.000 (10939s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[142/200] 142_CATSv2_id_5_Sensor_tr_30704_1st_: layer=0.000 opt=0.000 (11176s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[143/200] 143_CATSv2_id_6_Sensor_tr_50000_1st_: layer=0.028 opt=0.000 (11297s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[159/200] 159_SMAP_id_16_Sensor_tr_1757_1st_26: layer=1.000 opt=0.000 (11306s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[171/200] 171_SWaT_id_1_Sensor_tr_3749_1st_952: layer=0.000 opt=0.286 (11318s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[172/200] 172_SWaT_id_2_Sensor_tr_23700_1st_23: layer=0.000 opt=0.080 (11579s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[173/200] 173_GECCO_id_1_Sensor_tr_16165_1st_1: layer=0.108 opt=0.069 (11663s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[174/200] 174_Exathlon_id_1_Facility_tr_10766_: layer=0.000 opt=0.000 (11687s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[175/200] 175_Exathlon_id_2_Facility_tr_10684_: layer=1.000 opt=1.000 (11712s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[176/200] 176_Exathlon_id_3_Facility_tr_10766_: layer=0.000 opt=0.000 (11735s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[177/200] 177_Exathlon_id_4_Facility_tr_11665_: layer=0.500 opt=0.667 (11761s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[178/200] 178_Exathlon_id_5_Facility_tr_12538_: layer=0.333 opt=1.000 (11835s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[179/200] 179_Exathlon_id_6_Facility_tr_11665_: layer=0.500 opt=1.000 (11860s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[180/200] 180_Exathlon_id_7_Facility_tr_10766_: layer=0.000 opt=0.000 (11883s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[181/200] 181_Exathlon_id_8_Facility_tr_11663_: layer=0.667 opt=1.000 (11908s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[182/200] 182_Exathlon_id_9_Facility_tr_10766_: layer=0.000 opt=0.000 (11932s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[183/200] 183_Exathlon_id_10_Facility_tr_11665: layer=0.500 opt=0.667 (11957s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[184/200] 184_Exathlon_id_11_Facility_tr_11665: layer=0.500 opt=0.667 (11982s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[185/200] 185_Exathlon_id_12_Facility_tr_11665: layer=0.500 opt=0.667 (12007s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[186/200] 186_Exathlon_id_13_Facility_tr_10766: layer=0.000 opt=0.000 (12030s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[187/200] 187_Exathlon_id_14_Facility_tr_6193_: layer=1.000 opt=0.800 (12056s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[188/200] 188_Exathlon_id_15_Facility_tr_12538: layer=0.333 opt=1.000 (12129s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[189/200] 189_Exathlon_id_16_Facility_tr_11663: layer=0.667 opt=1.000 (12155s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[190/200] 190_Exathlon_id_17_Facility_tr_12538: layer=0.333 opt=1.000 (12228s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[191/200] 191_Exathlon_id_18_Facility_tr_11665: layer=0.500 opt=0.667 (12254s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[192/200] 192_Exathlon_id_19_Facility_tr_11665: layer=0.500 opt=0.667 (12279s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[193/200] 193_Exathlon_id_20_Facility_tr_8898_: layer=1.000 opt=1.000 (12305s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[194/200] 194_Exathlon_id_21_Facility_tr_6985_: layer=0.500 opt=0.000 (12329s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[195/200] 195_Exathlon_id_22_Facility_tr_10766: layer=0.000 opt=0.000 (12353s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[196/200] 196_Exathlon_id_23_Facility_tr_11665: layer=0.500 opt=0.667 (12379s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[197/200] 197_Exathlon_id_24_Facility_tr_10766: layer=0.000 opt=0.000 (12402s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[198/200] 198_Exathlon_id_25_Facility_tr_12538: layer=0.333 opt=1.000 (12476s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[199/200] 199_Exathlon_id_26_Facility_tr_12538: layer=0.333 opt=1.000 (12550s)
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\_experimental.py:33: ExperimentalWarning: Argument ``constraints_func`` is an experimental feature. The interface can change in the future.
+  optuna_warn(
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\samplers\_base.py:257: UserWarning: Constraints should be a sequence of floats but got ndarray.
+  optuna_warn(
+[200/200] 200_Exathlon_id_27_Facility_tr_10766: layer=0.000 opt=0.000 (12573s)
+EXCLUDED: {'short': 1, 'test_ev': 77, 'train_ev': 2}
+DONE

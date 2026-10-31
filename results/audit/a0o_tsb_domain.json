@@ -1,0 +1,148 @@
+{
+ "n_total": 120,
+ "n_det_evaluable": 112,
+ "n_f1": 120,
+ "n_domains": 15,
+ "det_diff": {
+  "mean": 0.0901,
+  "stream_bootstrap_ci95": [
+   0.0113,
+   0.1709
+  ],
+  "domain_clustered_ci95": [
+   -0.0505,
+   0.2825
+  ],
+  "wilcoxon_p": 0.0567,
+  "sign_test_p": 0.3284,
+  "layer_wins": 38,
+  "layer_loses": 29,
+  "ties": 45
+ },
+ "f1_diff": {
+  "mean": -0.0864,
+  "wilcoxon_p": 5.2e-05
+ },
+ "domain_table": [
+  {
+   "domain": "CATSv2",
+   "n_streams": 6,
+   "det_diff_mean": 0.277,
+   "layer_wins": 3,
+   "layer_loses": 0,
+   "ties": 3
+  },
+  {
+   "domain": "CreditCard",
+   "n_streams": 1,
+   "det_diff_mean": -0.022,
+   "layer_wins": 0,
+   "layer_loses": 1,
+   "ties": 0
+  },
+  {
+   "domain": "Daphnet",
+   "n_streams": 1,
+   "det_diff_mean": 0.0,
+   "layer_wins": 0,
+   "layer_loses": 0,
+   "ties": 1
+  },
+  {
+   "domain": "Exathlon",
+   "n_streams": 19,
+   "det_diff_mean": 0.0,
+   "layer_wins": 0,
+   "layer_loses": 0,
+   "ties": 19
+  },
+  {
+   "domain": "GECCO",
+   "n_streams": 1,
+   "det_diff_mean": 0.039,
+   "layer_wins": 1,
+   "layer_loses": 0,
+   "ties": 0
+  },
+  {
+   "domain": "GHL",
+   "n_streams": 7,
+   "det_diff_mean": 0.032,
+   "layer_wins": 1,
+   "layer_loses": 0,
+   "ties": 6
+  },
+  {
+   "domain": "LTDB",
+   "n_streams": 5,
+   "det_diff_mean": -0.457,
+   "layer_wins": 1,
+   "layer_loses": 4,
+   "ties": 0
+  },
+  {
+   "domain": "MITDB",
+   "n_streams": 7,
+   "det_diff_mean": 0.425,
+   "layer_wins": 5,
+   "layer_loses": 1,
+   "ties": 1
+  },
+  {
+   "domain": "MSL",
+   "n_streams": 3,
+   "det_diff_mean": 0.111,
+   "layer_wins": 1,
+   "layer_loses": 1,
+   "ties": 1
+  },
+  {
+   "domain": "PSM",
+   "n_streams": 1,
+   "det_diff_mean": 0.0,
+   "layer_wins": 0,
+   "layer_loses": 0,
+   "ties": 1
+  },
+  {
+   "domain": "SMAP",
+   "n_streams": 1,
+   "det_diff_mean": 1.0,
+   "layer_wins": 1,
+   "layer_loses": 0,
+   "ties": 0
+  },
+  {
+   "domain": "SMD",
+   "n_streams": 17,
+   "det_diff_mean": 0.229,
+   "layer_wins": 9,
+   "layer_loses": 1,
+   "ties": 7
+  },
+  {
+   "domain": "SVDB",
+   "n_streams": 28,
+   "det_diff_mean": -0.071,
+   "layer_wins": 9,
+   "layer_loses": 14,
+   "ties": 5
+  },
+  {
+   "domain": "SWaT",
+   "n_streams": 2,
+   "det_diff_mean": -0.333,
+   "layer_wins": 0,
+   "layer_loses": 2,
+   "ties": 0
+  },
+  {
+   "domain": "TAO",
+   "n_streams": 13,
+   "det_diff_mean": 0.378,
+   "layer_wins": 7,
+   "layer_loses": 5,
+   "ties": 1
+  }
+ ]
+}

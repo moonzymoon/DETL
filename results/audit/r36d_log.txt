@@ -1,0 +1,7 @@
+[r36d] TE none : F1=0.769 det=0.83 n_ev=7 m*=0.0774
+[r36d] TE 5std : F1=0.625 det=0.83 n_ev=10 m*=0.0758
+[r36d] BATADAL 肩部 q=0.9: 正常段超限率=0.08863
+[r36d] BATADAL 肩部 q=0.95: 正常段超限率=0.04014
+[r36d] BATADAL 肩部 q=0.99: 正常段超限率=0.00610
+[r36d] BATADAL 肩部 q=0.999: 正常段超限率=0.00032
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r36d_te5_shoulder.csv

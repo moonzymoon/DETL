@@ -1,0 +1,24 @@
+[r44] HAI 分数流 (86385,), AUROC=0.676
+[r44] 整定段事件 2, 整定测试事件 5, std=0.0273
+[r44] ours           F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] ours-mcap      F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] pw+constr      F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] optuna         F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] random         F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] grid-delay     F1=0.000 det=0.00 AAR=0.000 n_ev=0 MAD=nans
+[r44] gyasi          F1=0.000 det=0.00 AAR=5.085 n_ev=61 MAD=nans
+[r44] raw            F1=0.000 det=0.00 AAR=0.167 n_ev=2 MAD=nans
+[r44] fixed-window   F1=0.000 det=0.00 AAR=0.083 n_ev=1 MAD=nans
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r44_hai.csv
+[r44-LOO] ours(mcap)-pw+constr      n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-optuna         n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-random         n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-grid-delay     n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-gyasi          n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-raw            n=5 折: [+0.000, +0.000]  领先 0/5
+[r44-LOO] ours(mcap)-fixed-window   n=5 折: [+0.000, +0.000]  领先 0/5
+[r44b] HAI 逐点 iForest 变体 (无窗口, 同 2h 块交错协议, 预注册同窗口变体):
+[r44b] pointwise AUROC = 0.719 (窗口变体 0.676)
+[r44b] ours-pointwise: F1=0.000 det=0.00 n_ev=2 AAR=0.167
+[r44b] optuna-pointwise: F1=0.000 det=0.00 n_ev=1 AAR=0.083
+[r44b] 结论: 两个 iForest 变体均低于可整定阈值, 全方法 (含无标签搜索) 5 测试事件 0 匹配 —— 第五条检测器天花板流

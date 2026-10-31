@@ -1,0 +1,4 @@
+[r23] SWaT      relaxed-F1+constraints: F1=0.400 AAR=0.0417 n_ev=4 det=1.00 T=4/1
+[r23] TE        relaxed-F1+constraints: F1=0.500 AAR=0.0102 n_ev=2 det=0.33 T=4/8
+[r23] MetroPT3  relaxed-F1+constraints: F1=0.138 AAR=0.0247 n_ev=26 det=0.67 T=24/1
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r23_constrained_f1.csv

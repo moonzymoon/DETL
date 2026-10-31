@@ -1,0 +1,8 @@
+[r27] ours-rolling (9 折, 282s/折): F1=0.029 det=1.00 AAR=0.048 n_ev=68 MAD=39215s
+Traceback (most recent call last):
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\e_r27_rolling_metro.py", line 85, in <module>
+    main()
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\e_r27_rolling_metro.py", line 66, in main
+    q, Wm = best[0]
+    ^^^^^
+TypeError: cannot unpack non-iterable NoneType object

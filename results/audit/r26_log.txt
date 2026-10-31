@@ -1,0 +1,5 @@
+[r26] SWaT      train_ev=1 in-sample event=0.500 pw=0.667 -> 选 pointwise | test event=0.333 pw=0.400 选中=0.400
+[r26] TE        train_ev=5 in-sample event=0.750 pw=0.571 -> 选 event     | test event=0.769 pw=0.500 选中=0.769
+[r26] MetroPT3  train_ev=3 in-sample event=0.000 pw=0.000 -> 选 event     | test event=0.067 pw=0.138 选中=0.067
+[r26] TE-ext     train_ev=14 in-sample event=0.286 pw=0.133 -> 选 event     | test event=0.207 pw=0.154 选中=0.207
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r26_obj_select.csv

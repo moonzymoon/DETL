@@ -1,0 +1,13 @@
+[r36b] BATADAL: std=0.0224
+[r36b] BATADAL  m_max= none·std: F1=0.400 det=1.00 AAR=0.0003 n_ev=1 occ=0.9985 最长=3221.0h
+[r36b] BATADAL  m_max=    1·std: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 occ=0.0015 最长=3.0h
+[r36b] BATADAL  m_max=    2·std: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 occ=0.0015 最长=3.0h
+[r36b] BATADAL  m_max=    3·std: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 occ=0.0015 最长=3.0h
+[r36b] BATADAL  m_max=    5·std: F1=0.333 det=0.25 AAR=0.0006 n_ev=2 occ=0.0015 最长=3.0h
+[r36b] TE: std=0.0489
+[r36b] TE       m_max= none·std: F1=0.769 det=0.83 AAR=0.0357 n_ev=7 occ=0.3771 最长=22.5h
+[r36b] TE       m_max=    3·std: F1=0.727 det=0.67 AAR=0.0255 n_ev=5 occ=0.3726 最长=22.5h
+[r36b] MetroPT3: std=0.0785
+[r36b] MetroPT3 m_max= none·std: F1=0.067 det=0.33 AAR=0.0257 n_ev=27 occ=0.0026 最长=0.5h
+[r36b] MetroPT3 m_max=    3·std: F1=0.121 det=0.67 AAR=0.0285 n_ev=30 occ=0.0031 最长=0.6h
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r36b_mcap_universal.csv

@@ -1,0 +1,24 @@
+[r42] SWaT     diff-tune    none=0.333  ext10=0.333  shr10=0.333  ext20=0.333  shr20=0.333
+[r42] SWaT     optuna       none=0.333  ext10=0.333  shr10=0.333  ext20=0.333  shr20=0.333
+[r42] SWaT     random       none=0.286  ext10=0.286  shr10=0.286  ext20=0.286  shr20=0.286
+[r42] SWaT     grid-delay   none=0.200  ext10=0.200  shr10=0.200  ext20=0.200  shr20=0.200
+[r42] SWaT     gyasi        none=0.053  ext10=0.053  shr10=0.053  ext20=0.053  shr20=0.053
+[r42] SWaT     fixed-window none=0.500  ext10=0.500  shr10=0.500  ext20=0.500  shr20=0.500
+[r42] TE       diff-tune    none=0.769  ext10=0.769  shr10=0.769  ext20=0.769  shr20=0.769
+[r42] TE       optuna       none=0.286  ext10=0.286  shr10=0.286  ext20=0.286  shr20=0.286
+[r42] TE       random       none=0.353  ext10=0.353  shr10=0.353  ext20=0.353  shr20=0.353
+[r42] TE       grid-delay   none=0.500  ext10=0.500  shr10=0.500  ext20=0.500  shr20=0.500
+[r42] TE       gyasi        none=0.114  ext10=0.114  shr10=0.114  ext20=0.114  shr20=0.114
+[r42] TE       fixed-window none=0.444  ext10=0.444  shr10=0.444  ext20=0.444  shr20=0.444
+[r42] MetroPT3 diff-tune    none=0.067  ext10=0.133  shr10=0.067  ext20=0.133  shr20=0.067
+[r42] MetroPT3 optuna       none=0.042  ext10=0.063  shr10=0.042  ext20=0.063  shr20=0.042
+[r42] MetroPT3 random       none=0.041  ext10=0.062  shr10=0.041  ext20=0.062  shr20=0.041
+[r42] MetroPT3 grid-delay   none=0.098  ext10=0.146  shr10=0.098  ext20=0.146  shr20=0.098
+[r42] MetroPT3 gyasi        none=0.001  ext10=0.001  shr10=0.001  ext20=0.001  shr20=0.001
+[r42] MetroPT3 fixed-window none=0.013  ext10=0.020  shr10=0.013  ext20=0.020  shr20=0.013
+[r42] BATADAL  ours         none=0.400  ext10=0.400  shr10=0.400  ext20=0.400  shr20=0.400
+[r42] BATADAL  ours-mcap    none=0.333  ext10=0.333  shr10=0.333  ext20=0.333  shr20=0.333
+[r42] BATADAL  pw+constr    none=0.444  ext10=0.444  shr10=0.444  ext20=0.444  shr20=0.222
+[r42] BATADAL  grid-delay   none=0.400  ext10=0.400  shr10=0.400  ext20=0.400  shr20=0.400
+[r42] BATADAL  fixed-window none=0.182  ext10=0.273  shr10=0.182  ext20=0.273  shr20=0.182
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r42_boundary.csv

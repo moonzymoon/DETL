@@ -1,0 +1,4 @@
+﻿AAR_per_hour,flood_time_frac,chatter_rate,mean_alarm_delay_s,event_detection_rate,n_gt_events,n_alarm_events,EventF1,dataset,scorer,loss_mode
+0.041666666666666664,0.0,0.0,40.0,1.0,1,4,0.4,SWaT,cmhmil,relaxed_f1_constrained
+0.010213635202996,0.0,0.0,8670.0,0.3333333333333333,6,2,0.5,TE,iforest,relaxed_f1_constrained
+0.02474184292366111,0.0,0.0,45702.5,0.6666666666666666,3,26,0.13793103448275862,MetroPT3,iforest,relaxed_f1_constrained

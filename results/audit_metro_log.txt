@@ -1,0 +1,11 @@
+[E] MetroPT3 紧预算审计:
+    params={'theta_hi': -0.0034972168505191803, 'theta_lo': -0.16219249367713928, 'T_on': 3, 'T_off': 3}
+    n_gt=3 n_alarm=1 time_in_alarm=1.0000
+    matched(1-1)=[(1, 0, 0.025226966036708428)]
+    F1=0.500 AAR=0.00095/h MAD=0s det=1.00
+    alarm event 0: [0.0h, 1050.9h) dur=1050.8h
+    gt event    0: [100.3h, 120.9h) dur=20.7h
+    gt event    1: [177.5h, 204.0h) dur=26.5h
+    gt event    2: [564.0h, 576.0h) dur=12.0h
+
+写出 D:\0科研\工作1\第9篇SCI\results\audit/

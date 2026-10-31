@@ -1,0 +1,12 @@
+[r25] 扩展 TE: X(78017, 41) 事件数(全流)=16
+[r25] 分数流 (48001,), 整定测试事件数=12
+[r25] ours             F1=0.207 det=0.25 AAR=0.040 n_ev=17 MAD=72180s
+[r25] pw+constr        F1=0.154 det=1.00 AAR=0.003 n_ev=1 MAD=7645s
+[r25] optuna           F1=0.560 det=0.58 AAR=0.030 n_ev=13 MAD=39257s
+[r25] grid-delay       F1=0.333 det=0.25 AAR=0.015 n_ev=6 MAD=85660s
+[r25] fixed-window     F1=0.273 det=0.25 AAR=0.025 n_ev=10 MAD=87220s
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r25_te_ext.csv
+[r25-LOO] ours-pw+constr        n=12 折: [-0.024, +0.048]  领先 9/12
+[r25-LOO] ours-optuna           n=12 折: [-0.369, -0.286]  领先 0/12
+[r25-LOO] ours-grid-delay       n=12 折: [-0.139, -0.092]  领先 0/12
+[r25-LOO] ours-fixed-window     n=12 折: [-0.071, -0.048]  领先 0/12

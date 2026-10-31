@@ -1,0 +1,54 @@
+{
+ "n_streams_pass": 1,
+ "transfer_success": false,
+ "per_stream": [
+  {
+   "stream": "SWaT_cmh",
+   "layer_tune_AAR": 0.0288,
+   "R0_det": 1.0,
+   "R0_ef1": 0.35,
+   "R5a_det": 1.0,
+   "R5a_ef1": 0.209,
+   "R5b_det": 1.0,
+   "R5b_ef1": 0.225,
+   "R5c_det": 1.0,
+   "R5c_ef1": 0.373
+  },
+  {
+   "stream": "Metro_if",
+   "layer_tune_AAR": 0.0218,
+   "R0_det": 0.5,
+   "R0_ef1": 0.057,
+   "R5a_det": 0.5,
+   "R5a_ef1": 0.015,
+   "R5b_det": 0.5,
+   "R5b_ef1": 0.024,
+   "R5c_det": 0.5,
+   "R5c_ef1": 0.057
+  },
+  {
+   "stream": "TE_cmh",
+   "layer_tune_AAR": 0.0098,
+   "R0_det": 0.2,
+   "R0_ef1": 0.286,
+   "R5a_det": 0.333,
+   "R5a_ef1": 0.179,
+   "R5b_det": 0.333,
+   "R5b_ef1": 0.286,
+   "R5c_det": 0.2,
+   "R5c_ef1": 0.286
+  },
+  {
+   "stream": "TE_usad",
+   "layer_tune_AAR": 0.1275,
+   "R0_det": 0.2,
+   "R0_ef1": 0.286,
+   "R5a_det": 0.733,
+   "R5a_ef1": 0.258,
+   "R5b_det": 0.733,
+   "R5b_ef1": 0.415,
+   "R5c_det": 0.6,
+   "R5c_ef1": 0.459
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+[r47] SWaT     committer 概率流 AUROC=0.969
+[r47] SWaT     committer+optuna (p): F1=1.000 det=1.00 AAR=0.0104 n_ev=1
+[r47] SWaT     committer+ours   (p): F1=0.154 det=1.00 AAR=0.1250 n_ev=12
+[r47] TE       committer 概率流 AUROC=0.850
+[r47] TE       committer+optuna (p): F1=0.294 det=0.83 AAR=0.1430 n_ev=28
+[r47] TE       committer+ours   (p): F1=0.267 det=0.67 AAR=0.1226 n_ev=24
+[r47] MetroPT3 committer 概率流 AUROC=0.798
+[r47] MetroPT3 committer+optuna (p): F1=0.154 det=0.67 AAR=0.0219 n_ev=23
+[r47] MetroPT3 committer+ours   (p): F1=0.111 det=0.67 AAR=0.0314 n_ev=33
+[r47] BATADAL  committer 概率流 AUROC=0.887
+[r47] BATADAL  committer+optuna (p): F1=0.333 det=0.25 AAR=0.0006 n_ev=2
+[r47] BATADAL  committer+ours   (p): F1=0.600 det=0.75 AAR=0.0019 n_ev=6
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r47_committer.csv

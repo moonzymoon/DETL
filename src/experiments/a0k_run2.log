@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\a0k_regen_M.py", line 156, in <module>
+    main()
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\a0k_regen_M.py", line 137, in main
+    for name, fn in [('BATADAL', batadal_stream, False),
+        ^^^^^^^^
+ValueError: too many values to unpack (expected 2)

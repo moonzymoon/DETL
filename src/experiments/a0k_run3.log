@@ -1,0 +1,8 @@
+===== BATADAL =====
+Traceback (most recent call last):
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\a0k_regen_M.py", line 156, in <module>
+    main()
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\a0k_regen_M.py", line 141, in main
+    s, y, dt, bounds, adaptive = fn()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 5, got 4)

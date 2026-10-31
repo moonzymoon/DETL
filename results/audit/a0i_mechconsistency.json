@@ -1,0 +1,126 @@
+{
+ "mech_table": {
+  "1": "A/C feed ratio step",
+  "4": "Reactor cooling-water inlet temp step",
+  "11": "Reactor cooling-water inlet temp random variation"
+ },
+ "per_event": {
+  "1": {
+   "idv": 1,
+   "detected": true,
+   "consistent_frac": 1.0,
+   "tiers": [
+    "cascade",
+    "cascade",
+    "cascade"
+   ]
+  },
+  "2": {
+   "idv": 4,
+   "detected": false,
+   "consistent_frac": 1.0,
+   "tiers": [
+    "cascade",
+    "cascade",
+    "cascade"
+   ]
+  },
+  "3": {
+   "idv": 4,
+   "detected": false,
+   "consistent_frac": 1.0,
+   "tiers": [
+    "direct",
+    "direct",
+    "cascade"
+   ]
+  },
+  "4": {
+   "idv": 11,
+   "detected": true,
+   "consistent_frac": 0.667,
+   "tiers": [
+    "direct",
+    "direct",
+    "unexplained"
+   ]
+  },
+  "5": {
+   "idv": 11,
+   "detected": true,
+   "consistent_frac": 0.667,
+   "tiers": [
+    "direct",
+    "direct",
+    "unexplained"
+   ]
+  }
+ },
+ "overall_consistent_frac": 0.867,
+ "consistent_frac_detected": 0.778,
+ "consistent_frac_missed": 1.0,
+ "empirical_top5_per_idv": {
+  "1": [
+   [
+    1,
+    18,
+    4,
+    20,
+    11
+   ],
+   [
+    9,
+    39,
+    26,
+    21,
+    37
+   ]
+  ],
+  "4": [
+   [
+    1,
+    18,
+    4,
+    20,
+    11
+   ],
+   [
+    9,
+    21,
+    16,
+    13,
+    7
+   ]
+  ],
+  "11": [
+   [
+    39,
+    9,
+    10,
+    13,
+    16
+   ],
+   [
+    9,
+    21,
+    13,
+    16,
+    7
+   ]
+  ]
+ },
+ "empirical_direct_overlap": {
+  "1": [
+   1,
+   4
+  ],
+  "4": [
+   9,
+   21
+  ],
+  "11": [
+   9,
+   21
+  ]
+ }
+}

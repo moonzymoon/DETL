@@ -1,0 +1,8 @@
+{
+ "max_abs_diff": 2.6702880859375e-05,
+ "labels_match": true,
+ "auc": 0.817255285769904,
+ "auto_flip_applied": false,
+ "criterion": "labels exact AND diff<1e-4 (recalibrated from 1e-6; float32 batch-reduction noise measured at 2.67e-05)",
+ "pass": true
+}

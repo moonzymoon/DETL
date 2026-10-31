@@ -1,0 +1,6 @@
+{
+ "deterministic_rerun": true,
+ "main_auroc_correct_labels": 0.8256,
+ "note": "labels t>=8h per fault file (R15 fix; earlier gate flattened the 480-sample healthy prefix of each fault run, mislabeling 2880 normal points)",
+ "pass": true
+}

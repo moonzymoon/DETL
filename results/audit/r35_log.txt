@@ -1,0 +1,18 @@
+[r35a] BATADAL chrono ours             F1=0.333 det=0.20 AAR=0.0003 n_ev=1 TIA=0.003 train_ev=0
+[r35a] BATADAL chrono ours-mcap        F1=0.333 det=0.20 AAR=0.0003 n_ev=1 TIA=0.003 train_ev=0
+[r35a] BATADAL chrono ours-mcap-floor  F1=0.333 det=0.20 AAR=0.0003 n_ev=1 TIA=0.003 train_ev=0
+[r35a] BATADAL chrono fixed-window   F1=0.205 det=0.80 AAR=0.0105 n_ev=34
+C:\Users\PC\AppData\Local\Programs\Python\Python311\Lib\site-packages\optuna\trial\_trial.py:664: UserWarning: Fixed parameter margin with value 0.2964614458949418 is out of range for distribution FloatDistribution(high=0.25, log=False, low=0.0, step=None).
+  optuna_warn(
+[r35b] TE-ext polish budget= 5: F1=0.207 det=0.25 AAR=0.040
+[r35b] TE-ext polish budget=10: F1=0.207 det=0.25 AAR=0.040
+[r35b] TE-ext polish budget=20: F1=0.560 det=0.58 AAR=0.030
+[r35b] TE-ext polish budget=40: F1=0.519 det=0.58 AAR=0.035
+[r35c] κ=15 TE-ext  F1=0.143
+Traceback (most recent call last):
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\e_r35_batch.py", line 174, in <module>
+    main()
+  File "D:\0科研\工作1\第9篇SCI\src\experiments\e_r35_batch.py", line 128, in main
+    for name, ss, yy, dd, ev in [
+        ^^^^^^^^^^^^^^^^^^^^
+ValueError: not enough values to unpack (expected 5, got 4)

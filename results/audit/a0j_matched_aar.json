@@ -1,0 +1,215 @@
+{
+ "n_feasible_evaluated": 1158,
+ "bin_width": 0.02,
+ "layer_point": {
+  "AAR": 0.1072,
+  "det_ov": 0.6,
+  "EF1_ov": 0.231,
+  "MAD_s": 43560.0,
+  "TIA_side": 0.204,
+  "n_stale_1h": 8
+ },
+ "frontier": [
+  {
+   "aar_bin": 0.0,
+   "best_det": 0.4,
+   "best_EF1": 0.5,
+   "n": 638,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.02,
+   "best_det": 0.8,
+   "best_EF1": 0.6666666666666666,
+   "n": 280,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.04,
+   "best_det": 1.0,
+   "best_EF1": 0.625,
+   "n": 123,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.06,
+   "best_det": 1.0,
+   "best_EF1": 0.5882352941176471,
+   "n": 64,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.08,
+   "best_det": 1.0,
+   "best_EF1": 0.47619047619047616,
+   "n": 21,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.1,
+   "best_det": 0.8,
+   "best_EF1": 0.3076923076923077,
+   "n": 10,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.12,
+   "best_det": 0.8,
+   "best_EF1": 0.27586206896551724,
+   "n": 12,
+   "seeds": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "aar_bin": 0.14,
+   "best_det": 0.8,
+   "best_EF1": 0.24242424242424243,
+   "n": 3,
+   "seeds": [
+    2,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.18,
+   "best_det": 0.6,
+   "best_EF1": 0.14634146341463414,
+   "n": 1,
+   "seeds": [
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.2,
+   "best_det": 0.6,
+   "best_EF1": 0.125,
+   "n": 1,
+   "seeds": [
+    4
+   ]
+  },
+  {
+   "aar_bin": 0.22,
+   "best_det": 0.6,
+   "best_EF1": 0.11764705882352941,
+   "n": 1,
+   "seeds": [
+    4
+   ]
+  },
+  {
+   "aar_bin": 0.26,
+   "best_det": 0.6,
+   "best_EF1": 0.10714285714285714,
+   "n": 2,
+   "seeds": [
+    4
+   ]
+  },
+  {
+   "aar_bin": 0.36,
+   "best_det": 0.6,
+   "best_EF1": 0.0759493670886076,
+   "n": 1,
+   "seeds": [
+    2
+   ]
+  },
+  {
+   "aar_bin": 0.4,
+   "best_det": 0.6,
+   "best_EF1": 0.07142857142857144,
+   "n": 1,
+   "seeds": [
+    4
+   ]
+  }
+ ],
+ "verdict": {
+  "bin_range": [
+   0.1,
+   0.15
+  ],
+  "best_det_in_bins": 0.8,
+  "layer_det": 0.6,
+  "layer_AAR": 0.1072,
+  "conclusion": "matched-AAR search reaches layer detection; detection advantage narrows"
+ },
+ "verdict_bin_rows": [
+  {
+   "aar_bin": 0.1,
+   "best_det": 0.8,
+   "best_EF1": 0.3076923076923077,
+   "n": 10,
+   "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "aar_bin": 0.12,
+   "best_det": 0.8,
+   "best_EF1": 0.27586206896551724,
+   "n": 12,
+   "seeds": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "aar_bin": 0.14,
+   "best_det": 0.8,
+   "best_EF1": 0.24242424242424243,
+   "n": 3,
+   "seeds": [
+    2,
+    5
+   ]
+  }
+ ]
+}

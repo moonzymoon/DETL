@@ -1,0 +1,16 @@
+{
+ "layer": {
+  "win_faults_margin_median": 0.0168,
+  "frac_margin_pos_win": 0.917,
+  "tie_faults_margin_median": 0.1753,
+  "zero_faults_margin_median": -0.0226,
+  "frac_margin_pos_zero": 0.125
+ },
+ "search_seed_mean": {
+  "win_faults_margin_median": -0.0202,
+  "frac_margin_pos_win": 0.333,
+  "tie_faults_margin_median": 0.1382,
+  "zero_faults_margin_median": -0.0597,
+  "frac_margin_pos_zero": 0.125
+ }
+}

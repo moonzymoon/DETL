@@ -1,0 +1,2 @@
+﻿n_gt_side,n_alarm_side,EF1_ov,det_ov,EF1_iou01,det_iou01,MAD_s,n_missed,miss_rate,AAR_side,FAR_side,feasible,TIA_side,alarm_dur_med_h,n_stale_1h,theta_hi,margin,T_on,T_off,method
+5,3,0.25,0.2,0.25,0.2,10200.0,4,0.8,0.015320452804494,0.0,True,0.08613499021193292,8.75,2,0.1288996740249228,0.0,1,15,fixed-window

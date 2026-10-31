@@ -1,0 +1,7 @@
+[r48] TE       USAD AUROC=0.830 整定段事件 5 测试事件 6
+[r48] TE       USAD optuna  : F1=0.286 det=1.00 AAR=0.0051 n_ev=1
+[r48] TE       USAD ours    : F1=0.286 det=1.00 AAR=0.0051 n_ev=1
+[r48] MetroPT3 USAD AUROC=0.556 整定段事件 3 测试事件 3
+[r48] MetroPT3 USAD optuna  : F1=0.500 det=1.00 AAR=0.0001 n_ev=1
+[r48] MetroPT3 USAD ours    : F1=0.003 det=0.33 AAR=0.0480 n_ev=607
+写出 D:\0科研\工作1\第9篇SCI\results\audit\r48_usad.csv

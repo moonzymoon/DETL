@@ -1,0 +1,5 @@
+﻿cadence_s,decim,layer_EF1,layer_det,layer_AAR,layer_feas,search_EF1,search_det,search_AAR
+5.0,1,0.333,1.0,0.0521,True,0.35,1.0,0.0521
+10.0,2,0.333,1.0,0.0521,True,0.522,1.0,0.0312
+30.0,6,0.4,1.0,0.0417,True,0.444,0.667,0.0139
+60.0,12,0.4,1.0,0.0417,True,0.556,0.667,0.0104

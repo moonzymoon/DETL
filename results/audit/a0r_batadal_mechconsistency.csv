@@ -1,0 +1,6 @@
+﻿attack,gt_len_h,test_side,detected,mode,top1,top2,top3,top1_z,verdict,onset_score_idx
+A1,42.0,False,True,annunciation,F_PU11,S_PU11,P_J307,36.4,cascade,4037
+A3,60.0,False,True,annunciation,L_T4,F_V2,L_T3,1.5,none,4670
+A4,37.0,True,False,score-peak,L_T1,P_J256,F_V2,1.44,direct,5129
+A5,7.0,False,False,score-peak,L_T4,L_T1,S_PU2,1.83,cascade,5791
+A6,73.0,True,True,annunciation,F_PU6,S_PU6,S_PU7,24.37,partial,6029
